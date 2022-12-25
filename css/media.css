@@ -1,0 +1,1031 @@
+@media (max-width: 1440px){
+}
+@media (max-width: 1200px){
+    .hero-title {
+        width: 204px;
+    }
+    .hero-title select {
+        font-weight: 600;
+        font-size: 14px;
+    }
+    .head-content-left {
+        width: 215px;
+    }
+    .head-content-right {
+        width: 840px;
+    }
+    .head-content-right img {
+        width: 500px;
+    }
+    .box{
+        width: 250px;
+    }
+    .box img{
+        width: 230px;
+    }
+    .cards img{
+        width: 520px;
+    }
+    .card-text {
+        position: absolute;
+        top: 105px;
+        left: 319px;
+    }
+    .card-text1 {
+        position: absolute;
+        top: 105px;
+        right: 81px;
+    }
+    .product-title h2 {
+        font-weight: 800;
+        font-size: 20px;
+        padding-left: 10px;
+    }
+    .boxes{
+        width: 254px;
+    }
+    .boxes-info {
+        padding: 20px 0 0 6px;
+    }
+    .block {
+        width: 310px;
+    }
+    .blocks-content img{
+        width: 350px;
+    }
+}
+@media (max-width: 1024px){
+.hero-center{
+    width: 500px;
+}
+    .hero-center p{
+        font-size: 14px;
+    }
+    .hero-center button {
+        margin-left: 67px;
+    }
+    .head-content-left {
+        width: 202px;
+    }
+    .head-content-right{
+        width: 700px;
+    }
+    .head-content-right img {
+        width: 418px;
+    }
+    .head-right-text h1 {
+        font-weight: 800;
+        font-size: 32px;
+    }
+    .head-right-text button {
+        margin: 30px 0;
+    }
+    .box{
+        width: 205px;
+        height: 250px;
+    }
+    .box img {
+        width: 182px;
+    }
+    .box-content {
+        width: 182px;
+    }
+    .box-content p {
+        font-weight: 700;
+    }
+    .cards img {
+        width: 448px;
+    }
+    .card-text p {
+        font-weight: 800;
+        font-size: 26px;
+    }
+    .card-text span {
+        font-weight: 400;
+        font-size: 18px;
+    }
+    .card-text button {
+        font-weight: 600;
+        font-size: 14px;
+        width: 119px;
+        height: 40px;
+        margin: 11px 0 0 0;
+    }
+    .card-text1 {
+        position: absolute;
+        top: 105px;
+        right: 62px;
+    }
+    .card-text1 p {
+        font-weight: 800;
+        font-size: 26px;
+        line-height: 28px;
+    }
+    .card-text1 span {
+        font-weight: 400;
+        font-size: 18px;
+    }
+    .card-text1 button {
+        font-weight: 600;
+        font-size: 14px;
+        width: 119px;
+        height: 40px;
+        margin: -4px 0 0 0;
+    }
+    .card-text {
+        position: absolute;
+        top: 105px;
+        left: 277px;
+    }
+    .product-title h2 {
+        font-weight: 700;
+        font-size: 18px;
+        padding-left: -3px;
+    }
+    .icon-left {
+        width: 40px;
+        height: 40px;
+        margin-left: 52px;
+    }
+    .product-title ion-icon {
+        padding: 13px 0 0 12px;
+    }
+    .icon-right {
+        width: 40px;
+        height: 40px;
+    }
+    .product-content p {
+        font-size: 18px;
+        padding: 0 0 0 21px;
+    }
+    .boxes {
+        width: 210px;
+        height: 320px;
+    }
+    .boxes img{
+        width: 190px;
+        padding: 0 0 0 4px;
+    }
+    .boxes-foot {
+        width: 169px;
+        margin: 47px 0 0 15px;
+    }
+    .boxes-foot p {
+        font-size: 18px;
+    }
+    .block {
+        width: 214px;
+    }
+    .blocks-content img {
+        width: 260px;
+    }
+    .block h4 {
+        font-weight: 800;
+        font-size: 15px;
+        width: 275px;
+        line-height: 20px;
+    }
+    .block p {
+        font-weight: 300;
+        font-size: 14px;
+        width: 251px;
+    }
+    .blocks-content {
+        padding: 14px 35px 0 0;
+    }
+    .footer-left p {
+        font-weight: 300;
+        font-size: 12px;
+    }
+    .footer-center h2 {
+        font-weight: 800;
+        font-size: 15px;
+    }
+    .footer-center span {
+        font-weight: 300;
+        font-size: 13px;
+    }
+    .footer-center-two span {
+        font-weight: 300;
+        font-size: 13px;
+    }
+    .footer-center-two {
+        margin: 18px 0 0 0;
+    }
+    .footer-right p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .footer-right span {
+        font-weight: 300;
+        font-size: 13px;
+    }
+    .footer-info input {
+        width: 195px;
+    }
+    .footer-info button {
+        font-weight: 200;
+        width: 121px;
+    }
+    .foot-content p {
+        font-weight: 400;
+        font-size: 11px;
+        text-transform: lowercase;
+        color: #FFFFFF;
+    }
+}
+@media (max-width: 992px){
+    .hero-center {
+        width: 440px;
+    }
+    .hero-center select {
+        font-weight: 700;
+        font-size: 14px;
+    }
+
+    .hero-center button {
+        font-weight: 600;
+        font-size: 13px;
+        width: 112px;
+        height: 50px;
+        margin-left: 24px;
+    }
+    .hero-center p {
+        font-size: 14px;
+        margin-left: 8px;
+    }
+    .head-content-right {
+        width: 658px;
+    }
+    .head-content-right img {
+        width: 385px;
+    }
+}
+@media (max-width: 768px){
+    .header-icon {
+        margin: 0 4px 0 0;
+    }
+    .header-left p {
+        font-weight: 500;
+    }
+    .logo-nav{
+       width: 350px;
+    }
+    .logo-nav a {
+        font-weight: 400;
+        font-size: 12px;
+    }
+    .hero-title {
+        width: 139px;
+    }
+    .liner{
+        margin-left: 10px;
+    }
+    .hero-title select {
+        font-weight: 500;
+        font-size: 12px;
+    }
+    .hero-center {
+        width: 318px;
+    }
+    .hero-center select {
+        font-weight: 600;
+        font-size: 12px;
+        margin-left: 3px;
+    }
+    .hero-center p {
+        font-size: 11px;
+        margin-left: 2px;
+    }
+    .hero-center span {
+        margin: 0 5px;
+    }
+    .hero-center button {
+        font-weight: 500;
+        font-size: 13px;
+        width: 87px;
+        height: 50px;
+        margin-left: 19px;
+    }
+    .head-content-left {
+        width: 140px;
+        height: 350px;
+    }
+    .head-content-right {
+        width: 525px;
+        height: 350px;
+    }
+    .head-content-left span {
+        padding: 20px 9px;
+        line-height: 30px;
+    }
+    .head-right-text {
+        margin-left: 30px;
+    }
+    .head-content-right img {
+        width: 296px;
+    }
+    .head-right-text button {
+        font-size: 15px;
+        width: 125px;
+        height: 41px;
+        margin: 9px 0;
+    }
+    .head-right-text h1 {
+        font-weight: 800;
+        font-size: 28px;
+    }
+    .box {
+        width: 149px;
+        height: 200px;
+    }
+    .box img {
+        width: 131px;
+
+    }
+    .box-content {
+        width: 118px;
+    }
+    .box-content p {
+        font-size: 16px;
+    }
+    .cards img {
+        width: 332px;
+    }
+    .card-text p {
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .card-text button {
+        font-size: 12px;
+        width: 95px;
+        height: 35px;
+        margin: 3px 0 0 0;
+    }
+    .card-text span {
+        font-weight: 300;
+        font-size: 13px;
+    }
+    .card-text {
+        position: absolute;
+        top: 81px;
+        left: 203px;
+    }
+    .card-text1 p {
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .card-text1 button {
+        font-size: 12px;
+        width: 95px;
+        height: 35px;
+        margin: -4px 0 0 0;
+    }
+    .card-text1 span {
+        font-weight: 300;
+        font-size: 13px;
+    }
+    .card-text1 {
+        position: absolute;
+        top: 89px;
+        right: 62px;
+    }
+    .icon-left {
+        width: 30px;
+        height: 30px;
+        margin-left: 7px;
+    }
+    .product-content p {
+        font-size: 14px;
+        padding: 0 0 0 8px;
+    }
+    .product-title ion-icon {
+        padding: 8px 0 0 7px;
+    }
+    .icon-right {
+        width: 30px;
+        height: 30px;
+    }
+    .product-content {
+        width: 240px;
+    }
+    .product-content div {
+        width: 110px;
+        height: 110px;
+    }
+    .product-content img {
+         width: 100px;
+         height: 100px;
+         padding: 5px 5px;
+     }
+    .boxes {
+        width: 151px;
+        height: 251px;
+    }
+    .boxes img {
+        width: 140px;
+        padding: 0 0 0 0;
+    }
+    .boxes-foot {
+        width: 112px;
+        margin: 24px 0 0 15px;
+    }
+    .boxes-foot p {
+        font-size: 12px;
+        line-height: 26px;
+    }
+    .boxes-foot span {
+        font-weight: 600;
+    }
+    .block {
+        width: 165px;
+    }
+    .blocks-content img {
+        width: 205px;
+    }
+    .block-icon h5 {
+        font-weight: 300;
+        font-size: 12px;
+        color: #757575;
+        padding: 0 0 3px 10px;
+    }
+    .block-icon ion-icon {
+        width: 15px;
+        height: 15px;
+    }
+    .block h4 {
+        width: 203px;
+    }
+    .block p {
+        font-weight: 300;
+        font-size: 12px;
+        width: 225px;
+    }
+    .footer-left p {
+        font-weight: 200;
+        font-size: 10px;
+    }
+    .footer-center h2 {
+        font-weight: 600;
+        font-size: 13px;
+    }
+    .footer-center span {
+        font-size: 10px;
+    }
+    .footer-center-two span {
+        font-size: 10px;
+    }
+    .footer-right p {
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 600;
+    }
+    .footer-info input {
+        width: 140px;
+        height: 50px;
+        font-size: 12px;
+    }
+    .footer-info button {
+        font-size: 12px;
+        width: 93px;
+        height: 50px;
+    }
+    .foot-content {
+        width: 100%;
+    }
+}
+@media (max-width: 576px){
+    .header-left p {
+        font-weight: 300;
+        font-size: 10px;
+    }
+    .header-icon ion-icon {
+        width: 13px;
+        height: 13px;
+        padding: 0 0px;
+    }
+    .header-icon {
+        margin: 0 -1px 0 0;
+    }
+    .header-left ion-icon {
+        width: 10px;
+        height: 20px;
+    }
+    .header-info span {
+        color: #FFFFFF;
+        padding: 0 6px;
+    }
+    .header-center img{
+        width: 20px;
+        height: 13px;
+        padding: 0 10px;
+    }
+    .header-info p {
+        font-weight: 400;
+        font-size: 10px;
+        padding-bottom: 0;
+    }
+    .logo img{
+        width: 120px;
+    }
+    .logo-nav a {
+        font-weight: 400;
+        font-size: 10px;
+        padding: 0 5px;
+    }
+    .hero-title select {
+        font-weight: 300;
+        font-size: 10px;
+    }
+    .liner {
+        width: 10px;
+        height: 15px;
+    }
+    .hero-center select {
+        font-weight: 300;
+        font-size: 9px;
+    }
+    .hero-center p {
+        font-size: 9px;
+    }
+    .hero-center button {
+        font-weight: 400;
+        font-size: 10px;
+        width: 69px;
+        margin-left: 10px;
+        height: 35px;
+    }
+    .hero-info div {
+        width: 30px;
+        height: 30px;
+        margin-right: 8px;
+    }
+    .hero-info a ion-icon {
+        width: 16px;
+        margin: 6px 8px;
+    }
+    .hero-info p {
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 10px;
+        color: #2A2A2A;
+    }
+    .hero-title {
+        width: 97px;
+        height: 35px;
+    }
+    .hero-center {
+        width: 251px;
+        height: 35px;
+    }
+    .head-content-left span {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 25px;
+        color: #999999;
+        padding: 20px 5px;
+    }
+    .head-content-right {
+        width: 403px;
+        height: 350px;
+    }
+    .head-content-right img {
+        width: 229px;
+    }
+    .head-right-text h4 {
+        font-size: 12px;
+    }
+    .head-right-text h1 {
+        font-weight: 800;
+        font-size: 20px;
+    }
+    .head-right-text p {
+        font-size: 12px;
+    }
+    .head-right-text button {
+        font-size: 12px;
+        width: 98px;
+        height: 32px;
+    }
+    .head-right-text {
+        margin-left: 17px;
+    }
+    .head-content-left {
+        width: 108px;
+        height: 300px;
+    }
+    .head-content-right {
+        width: 387px;
+        height: 300px;
+    }
+    .box {
+        width: 110px;
+        height: 134px;
+    }
+    .box img {
+        width: 100px;
+    }
+    .box-content {
+        width: 87px;
+        height: 30px;
+    }
+    .box-content p {
+        font-weight: 600;
+        font-size: 12px;
+        padding: 8px 0;
+    }
+    .cards img {
+        width: 248px;
+    }
+    .card-text p {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .card-text span {
+        font-weight: 300;
+        font-size: 11px;
+    }
+    .card-text button {
+        font-size: 10px;
+        width: 76px;
+        height: 29px;
+        margin: 0 0 0 0;
+    }
+    .card-text {
+        position: absolute;
+        top: 76px;
+        left: 151px;
+    }
+    .card-text1 p {
+        font-size: 16px;
+        line-height: 12px;
+    }
+    .card-text1 span {
+        font-weight: 300;
+        font-size: 11px;
+    }
+    .card-text1 button {
+        font-size: 10px;
+        width: 76px;
+        height: 29px;
+        margin: 0 0 0 0;
+    }
+    .card-text1 {
+        position: absolute;
+        top: 73px;
+        right: 33px;
+    }
+    .col {
+        width: 170px;
+    }
+    .product-title h2 {
+        font-size: 12px;
+    }
+    .icon-left {
+        width: 18px;
+        height: 18px;
+        margin-left: 1px;
+    }
+    .icon-right {
+        width: 18px;
+        height: 18px;
+        margin-left: 1px;
+    }
+    .product-title ion-icon {
+        width: 14px;
+        height: 14px;
+        padding: 3px 0 0 2px;
+    }
+    .product-content div {
+        width: 85px;
+        height: 98px;
+    }
+    .product-content img {
+        width: 75px;
+        padding: 0px 0 0 5px;
+    }
+    .product-content p {
+        font-size: 11px;
+        padding: 0 0 0 4px;
+    }
+    .boxes {
+        width: 118px;
+        height: 219px;
+    }
+    .boxes img {
+        width: 111px;
+    }
+    .boxes-foot p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .boxes-foot {
+        width: 82px;
+        margin: 15px 0 0 15px;
+    }
+    .blocks-content img {
+        width: 165px;
+    }
+    .product-content {
+        width: 187px;
+    }
+    .block h4 {
+        font-size: 12px;
+        width: 168px;
+    }
+    .block p {
+        font-weight: 300;
+        font-size: 10px;
+        width: 155px;
+        line-height: 18px;
+    }
+    .block {
+        width: 131px;
+    }
+    .block-icon {
+        width: 190px;
+    }
+    .footer-info input {
+        width: 116px;
+        height: 43px;
+        font-size: 10px;
+    }
+    .footer-info button {
+        font-size: 10px;
+        width: 82px;
+        height: 43px;
+    }
+    .footer-right p {
+        font-size: 12px;
+        line-height: 11px;
+    }
+    .footer-right span {
+        font-weight: 300;
+        font-size: 10px;
+    }
+    .footer-left img{
+        width: 80px;
+    }
+    .footer-left p {
+        font-weight: 200;
+        font-size: 10px;
+        width: 100px;
+    }
+}
+@media (max-width: 451px){
+
+}
+@media (max-width: 400px){
+    .header-left p {
+        font-weight: 300;
+        font-size: 10px;
+        width: 150px;
+    }
+    .header-left ion-icon {
+        width: 20px;
+        height: 20px;
+    }
+    .header-icon {
+        margin: 0 -8px 0 0;
+        width: 34px;
+    }
+    .header-right select {
+        font-weight: 300;
+        font-size: 10px;
+    }
+    .logo img {
+        width: 82px;
+    }
+    .logo-icon p {
+        font-weight: 300;
+        font-size: 12px;
+    }
+    .logo-icon ion-icon {
+        width: 17px;
+        height: 13px;
+        margin-right: 0px;
+    }
+    .circle1 {
+        position: absolute;
+        top: -4px;
+        right: 67px;
+    }
+    .circle {
+        position: absolute;
+        top: -4px;
+        right: 94px;
+    }
+    .logo-nav a {
+        font-size: 8px;
+        padding: 0 0px;
+        margin-left: 5px;
+    }
+    .hero-title {
+        width: 88px;
+    }
+    .liner {
+        width: 10px;
+        height: 17px;
+    }
+    .hero-center p {
+        display: none;
+    }
+    .hero-info p {
+        display: none;
+    }
+    .hero-center button {
+        margin-left: 76px;
+    }
+    .hero-center {
+        width: 223px;
+    }
+    .liner {
+        display: none;
+    }
+    .head-content {
+        flex-direction: column;
+    }
+    .head-content-left {
+        width: 358px;
+        height: 75px;
+    }
+    .head-content-left br{
+        display: none;
+    }
+    .head-content-right {
+        width: 387px;
+        height: 227px;
+    }
+    .box {
+        width: 87px;
+        height: 110px;
+    }
+    .box img {
+        width: 77px;
+    }
+    .box-content {
+        width: 73px;
+    }
+    .box-content p {
+        font-size: 10px;
+    }
+    .cards img {
+        width: 176px;
+    }
+    .card-text p {
+        font-size: 12px;
+        line-height: 2px;
+    }
+    .card-text span {
+        font-size: 10px;
+    }
+    .card-text button {
+        font-size: 8px;
+        width: 60px;
+        height: 24px;
+    }
+    .card-text {
+        position: absolute;
+        top: 66px;
+        left: 101px;
+    }
+    .card-text1 p {
+        font-size: 12px;
+        line-height: 1px;
+    }
+    .card-text1 span {
+        font-size: 10px;
+    }
+    .card-text1 button {
+        font-size: 8px;
+        width: 60px;
+        height: 24px;
+    }
+    .card-text1 {
+        position: absolute;
+        top: 64px;
+        right: 23px;
+    }
+    .product {
+        flex-direction: column;
+    }
+    .product-content div {
+        width: 88px;
+    }
+    .tabs-title {
+        width: 300px;
+        text-align: center;
+        margin-left: 30px;
+    }
+    .boxes {
+        width: 168px;
+        height: 270px;
+    }
+    .boxes img {
+        width: 156px;
+    }
+    .boxes-foot {
+        width: 129px;
+        margin: 15px 0 0 15px;
+    }
+    .blocks-content {
+        padding: 10px 0;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        flex-direction: column;
+    }
+    .block {
+        width: 224px;
+    }
+    .blocks-content img {
+        width: 219px;
+    }
+    .block h4 {
+        width: 228px;
+    }
+    .block p {
+        width: 216px;
+    }
+    .footer {
+        flex-wrap: wrap;
+    }
+    .footer-right {
+        margin: 50px 0 0 50px;
+    }
+    .foot-content {
+        flex-wrap: wrap;
+    }
+    .foot-content {
+        flex-direction: column;
+        padding: 20px 0 0 0;
+    }
+}
+@media (max-width: 376px){
+    .header-info ion-icon {
+        width: 13px;
+        padding: 0 2px;
+    }
+    .logo img {
+        width: 63px;
+    }
+    .box {
+        width: 80px;
+    }
+    .cards img {
+        width: 158px;
+    }
+    .card-text p {
+        font-size: 10px;
+        line-height: 2px;
+    }
+    .card-text span {
+        font-size: 8px;
+    }
+    .card-text button {
+        font-size: 8px;
+        width: 57px;
+        height: 24px;
+        margin-bottom: 8px;
+    }
+    .card-text {
+        position: absolute;
+        top: 66px;
+        left: 86px;
+    }
+    .card-text1 p {
+        font-size: 10px;
+        line-height: 8px;
+    }
+    .card-text1 span {
+        font-size: 8px;
+    }
+    .card-text1 button {
+        font-size: 8px;
+        width: 57px;
+        height: 24px;
+        margin-bottom: 15px;}
+    .boxes {
+        width: 154px;
+        height: 270px;
+    }
+    .boxes img {
+        width: 139px;
+    }
+    .boxes-foot {
+        width: 115px;
+        margin: 15px 0 0 15px;
+    }
+    .foot-content p {
+        font-size: 10px;
+    }
+    .head-content-right {
+        width: 373px;
+        height: 227px;
+    }
+}
+@media (max-width: 320px){
+
+}
